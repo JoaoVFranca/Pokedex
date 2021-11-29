@@ -1,0 +1,89 @@
+
+body {
+    font-family: 'Livvic';
+    background-image: url("https://cutewallpaper.org/21/pokemon-repeating-background/68-images-about-Backgrounds-on-We-Heart-It-See-more-about-.jpg");
+}
+
+div.top-distance {
+    margin-top: 25px;
+}
+
+div.header-div {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: crimson;
+    padding: 15px;
+}
+
+div.show-amount-div {
+    border: solid black 2px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    padding: 5px;
+    width: fit-content;
+    float: left;
+}
+
+a.page-link {
+    color: white;
+    background-color: black;
+}
+
+#rand-button {
+    border: solid white 2px;
+}
+
+#add-pokemon {
+    border-radius: 35px;
+    border: solid white 2px;
+}
+
+#visor {
+    background-color: black;
+    border: solid yellow 2px;
+    color: white;
+}
+
+.dataTables_filter {
+    margin: 0;
+    background-color:#323539;
+    border: solid white 2px;
+}
+
+.dataTables_filter label, .dataTables_filter label input {
+    color: white;
+}
+
+.dataTables_length {
+    margin: 0;
+    background-color:#323539;
+}
+
+.dataTables_length label{
+    color: white;
+}
+
+.dataTables_length label select {
+    margin-top: 2px;
+    margin-bottom: -2px;
+}
+
+.dataTables_length label select, .dataTables_length label select option {
+    background-color: #323539;
+    color: white;
+}
+
+#PokeTable_info {
+    background-color: #323539;
+    color: white;
+    padding: 2px;
+}
+
+#PokeTable_paginate {
+    background-color: white;
+    margin-bottom: 25px;
+}
+
+
